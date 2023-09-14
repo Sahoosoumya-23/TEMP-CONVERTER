@@ -1,3 +1,4 @@
 # TEMP-CONVERTER
 A simple Temperature converter project using HTML,CSS AND JAVASCRIPT
-By SOUMYA RANJAN SAHOO.
+by SOUMYA RANJAN SAHOO
+https://github.com/Sahoosoumya-23/TEMP-CONVERTER.git
